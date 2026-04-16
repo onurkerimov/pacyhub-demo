@@ -1,4 +1,4 @@
 {
-  "entry": "App.tsx",
+  "entry": "src/App.tsx",
   "template": "react-ts"
 }
